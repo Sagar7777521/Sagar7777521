@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 💬 Ask me about **JavaScript,React**
+- 💬 Ask me about **JavaScript,ReactJS,NextJS**
 
 - 📫 How to reach me **sagarshekhar777@gmail.com**
 
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-shekhar-865208160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-shekhar-865208160/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Tech Stack</h1>
 <p align="left"> 
  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
