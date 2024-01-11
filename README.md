@@ -11,15 +11,15 @@
 
 - 📫 How to reach me **sagarshekhar777@gmail.com**
 
-- ⚡ Fun fact **I love creating content**
+- ⚡ Fun fact **I love creating content and extremly enthusiast for a new technologies exposure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-shekhar-865208160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-shekhar-865208160/" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Tech Stack</h1>
-<p align="left"> 
+<h1 align="center">Tech Stack</h1>
+<p align="center"> 
  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
