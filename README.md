@@ -1,4 +1,6 @@
-<h1 align="center">Hi Techies 👋 I'm Sagar Shekhar</h1>
+<h1 align="center">hello_Techies(👋) => {
+ console.log(I'm Sagar Shekhar)
+}</h1>
 <h3 align="center">A Passionate Front-End Web Developer From India 📍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar7777521&label=Profile%20views&color=0e75b6&style=flat" alt="sagar7777521" /> </p>
