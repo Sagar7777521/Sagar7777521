@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar7777521&label=Profile%20views&color=0e75b6&style=flat" alt="sagar7777521" /> </p>
 
-- 🌱 I’m currently learning **React+Redux,Zustand and CSS preprocessors(LESS & SASS)**
+- 🌱 I’m currently learning **DSA using JS, Zustand and CSS preprocessors(LESS & SASS)**
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
