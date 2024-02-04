@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar7777521&label=Profile%20views&color=0e75b6&style=flat" alt="sagar7777521" /> </p>
 
-- 🌱 I’m currently learning **DSA using JS, Zustand and CSS preprocessors(LESS & SASS)**
+- 🌱 I’m currently learning **System Design, DSA using JS, Zustand and CSS preprocessors(LESS & SASS)**
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
@@ -47,7 +47,9 @@
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar7777521&show_icons=true&locale=en&layout=compact" alt="sagar7777521" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar7777521&show_icons=true&locale=en" alt="sagar7777521" /></p>
